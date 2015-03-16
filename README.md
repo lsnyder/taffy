@@ -1,0 +1,2 @@
+# taffy
+Elasticsearch made easy.
