@@ -1,0 +1,23 @@
+{
+  "name": "taffy",
+  "version": "0.0.0",
+  "description": "Wrapper module for elastic.js to make more complex functionality easier to implement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsnyder/taffy.git"
+  },
+  "keywords": [
+    "elastic",
+    "elasticsearch"
+  ],
+  "author": "Luke Snyder <lsbomber1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsnyder/taffy/issues"
+  },
+  "homepage": "https://github.com/lsnyder/taffy"
+}
